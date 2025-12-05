@@ -1,6 +1,6 @@
 ## KIM EUNJI
 
-[![Eunji's GitHub stats](https://github-readme-stats.vercel.app/api?username=ej9374)](https://github.com/anuraghazra/github-readme-stats)
+[![Eunji's GitHub stats](https://github-readme-stats.vercel.app/api?username=ej9374&show_icons=true&theme=default)](https://github.com/ej9374)
 
 
 ### Skills
