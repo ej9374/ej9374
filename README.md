@@ -1,7 +1,6 @@
 ## KIM EUNJI
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ej9374)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Eunji's GitHub stats](https://github-readme-stats.vercel.app/api?username=ej9374)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Skills
