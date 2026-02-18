@@ -31,7 +31,6 @@
 
 | 항목 | 내용 |
 | :--- | :--- |
-| 🧑‍💻 블로그 | [https://velog.io/@ej9374](https://velog.io/@ej9374) |
 | 📧 이메일 | eunjigold21@gmail.com |
 | 🔗 GitHub | [https://github.com/ej9374](https://github.com/ej9374) |
 
