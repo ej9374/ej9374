@@ -27,7 +27,7 @@
 #### ⚙️ Collaboration & Tools
 <img src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/notion-%23000000.svg?&style=for-the-badge&logo=notion&logoColor=white" />
 
-### ✍️ Blog & Contact
+### ✍️ Contact
 
 | 항목 | 내용 |
 | :--- | :--- |
