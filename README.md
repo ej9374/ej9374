@@ -2,6 +2,10 @@
 
 ### "서비스의 빈틈을 기술적 밀도로 채우는 백엔드 개발자입니다."
 
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/ej9374"/>
+</a>
+
 저는 **Java**와 **Spring Framework**를 기반으로 **안정적인 아키텍처**와 **높은 코드 품질**을 최우선으로 합니다.
 새로운 기술 도입을 두려워하지 않으며, 팀의 개발 속도를 가속화하는 **문서 기반 리더십**을 발휘합니다.
 
