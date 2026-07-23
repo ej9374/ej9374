@@ -10,14 +10,14 @@
 
 ### 🚀 Projects
 
-| 프로젝트 | 소개 | 역할 | 기간 | 성과 |
-| :--- | :--- | :--- | :--- | :--- |
-| [**TriB**](https://github.com/ej9374/2025_CAPSTONE_TRIB_BE) | AI 여행 올인원 매니저 | PL · Backend | 25.09–12 | 🏆 캡스톤 우수작품상(1위) · Play Store 배포 |
-| [**올림**](https://github.com/ej9374/2026_SANDOLL_OLLLIM_BE) | 보이스 레터링 서비스 (산돌 연계) | Backend · Infra · AI | 26.01–02 | 🏆 신한 청년 해커톤 혁신상 |
-| [**Notion-Spec-To-Code**](https://github.com/ej9374/Notion-Spec-To-Code) | 명세→코드 자동화 MCP & CLI | 개인 (100%) | 26.03– | 🔧 진행 중 |
-| [**워킹토끼**](https://github.com/ej9374/2025_KHTML_WALKING_RABBIT_BE) | 식물 인식 기반 산책 플랫폼 | PL · Backend | 25.08 | 🏆 K-HTML 해커톤 우수상 |
-| [**PosterPlot**](https://github.com/ej9374/PP_POSTERPLOT) | 포스터 기반 시나리오 생성 플랫폼 | PL · Backend | 25.01–03 | — |
-| [**테이스팅 노트**](https://github.com/ej9374/UOS_TASTING_NOTE_BE) | 음료 기록 · 취향 검색 플랫폼 | Backend Lead | 25.08 | — |
+| 프로젝트 | 소개 | 역할 | 기간 |
+| :--- | :--- | :--- | :--- |
+| [**TriB**](https://github.com/ej9374/2025_CAPSTONE_TRIB_BE) | AI 여행 올인원 매니저 | PL · Backend | 25.09–12 | 
+| [**올림**](https://github.com/ej9374/2026_SANDOLL_OLLLIM_BE) | 보이스 레터링 서비스 (산돌 연계) | Backend · Infra · AI | 26.01–02 |
+| [**Notion-Spec-To-Code**](https://github.com/ej9374/Notion-Spec-To-Code) | 명세→코드 자동화 MCP & CLI | 개인 (100%) | 26.03–06 |
+| [**워킹토끼**](https://github.com/ej9374/2025_KHTML_WALKING_RABBIT_BE) | 식물 인식 기반 산책 플랫폼 | PL · Backend | 25.08 | 
+| [**PosterPlot**](https://github.com/ej9374/PP_POSTERPLOT) | 포스터 기반 시나리오 생성 플랫폼 | PL · Backend | 25.01–03 |
+| [**테이스팅 노트**](https://github.com/ej9374/UOS_TASTING_NOTE_BE) | 음료 기록 · 취향 검색 플랫폼 | Backend Lead | 25.08 |
 
 <br/>
 
