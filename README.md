@@ -46,4 +46,3 @@
 
 - **Email** · eunjigold21@gmail.com
 - **GitHub** · [@ej9374](https://github.com/ej9374)
-- **Portfolio** · [상세 포트폴리오](https://gravel-share-34c.notion.site/2f08c8232917809e848bc2c60c7e664d)
